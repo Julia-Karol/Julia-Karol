@@ -6,3 +6,4 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliakarolaynne&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 
+![Snake animation](https://github.com/juliakarolaynne/juliakarolaynne/blob/output/github-contribution-grid-snake.svg)
